@@ -524,7 +524,7 @@ grid-template-rows: 10% 70% 0%;
     width: 165px;
     height: 411px;
     margin-left: 28px;
-    gap: 5px;
+    /* gap: 5px; */
     /* padding: 5px 0px; */
 }
 .last-div-box-head{
@@ -560,7 +560,7 @@ grid-template-rows: 10% 70% 0%;
 }
 .texxt{
     font-size: 12px;
-    margin: 5px 0px;
+    margin-bottom: 5px;
 }
 .last-deal{
     width: 94.7px;
